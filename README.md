@@ -22,5 +22,5 @@ This repository is created with:
 * Tensorflow
 
 ## Important links
-- You can download ANACONDA *(uses python 3.9)* from [**here**](https://www.anaconda.com/products/individual). 
-- Jupyter Notebook [GUIDE 📖](https://realpython.com/jupyter-notebook-introduction/).
+- You can download ANACONDA 🐍 *(uses python 3.9)* from [**here**](https://www.anaconda.com/products/individual). 
+- Jupyter Notebook 📓 [GUIDE 📖](https://realpython.com/jupyter-notebook-introduction/).
